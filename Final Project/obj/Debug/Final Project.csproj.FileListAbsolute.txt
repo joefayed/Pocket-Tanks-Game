@@ -1,0 +1,19 @@
+D:\Cs\Projects\Graphics1\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\Cs\Projects\Graphics1\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\Cs\Projects\Graphics1\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\Cs\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+D:\Cs\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final_Project.LineSeg.resources
+D:\Cs\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\Cs\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+D:\Cs\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\Cs\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.pdb
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final_Project.LineSeg.resources
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\Cs\Semester 6\Projects\Projects\Graphics1\Final Project\Final Project\obj\Debug\Final Project.pdb
